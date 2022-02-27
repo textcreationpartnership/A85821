@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech which was to have been delivered to the Kings Majestie, at his coming to Holy-Rud-House the 14 of August, in the name of the citie of Edinburgh, By A.G. Cler. But by the spent day, and other importunities, was interrupted</title>
+            <author>A. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85821</idno>
+            <idno type="STC">Wing G2A</idno>
+            <idno type="STC">ESTC R226174</idno>
+            <idno type="EEBO-CITATION">99896145</idno>
+            <idno type="PROQUEST">99896145</idno>
+            <idno type="VID">153954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2391:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech which was to have been delivered to the Kings Majestie, at his coming to Holy-Rud-House the 14 of August, in the name of the citie of Edinburgh, By A.G. Cler. But by the spent day, and other importunities, was interrupted</title>
+                  <author>A. G.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Bryson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153954:1"/>
+            <p>The Speech which was to have been delivered to the Kings Majeſtie, at his coming to HOLY-RUD-HOUSE the 14 of Auguſt, in the name of the citie of EDINBURGH, By <hi>A. G.</hi> Cler.</p>
+            <p>But by the ſpent day, and other importunities, was interrupted.</p>
+            <figure>
+               <figDesc>Robert Bryson's device</figDesc>
+               <p>R B</p>
+            </figure>
+            <p>EDINBURGH Printed by <hi>Robert Bryſon.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153954:2"/>
+            <pb facs="tcp:153954:2"/>
+            <head>The Speech which was to have been delivered to the Kings Majeſtie, at his coming to HOLY-RUD-HOUSE the 14 of Auguſt, in the name of the citie of EDINBURGH, By <hi>A. G.</hi> Cler. But by the ſpent day, and other importunities, was interrupted.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not without great rea<g ref="char:EOLhyphen"/>ſon that Politians parallel the government of Kings in the little world of man, to the government of the Sun in the greater; the <g ref="char:V">Ʋ</g>niverſe, Though by many arguments this re<g ref="char:EOLhyphen"/>ſemblance may be demonſtrated, experience a<g ref="char:EOLhyphen"/>bove all others hath lately proven it to be true unto us: Since your Majeſtie turned from our Tropick, we have ſuffered a ſharp Winter, ma<g ref="char:EOLhyphen"/>ny Ecclipſes, as many long and tedious nights
+<pb facs="tcp:153954:3"/> in the darkneſſe of which, we have wandered in many by-paths, and have been aſſaulted with many uncouth fears and ghoſtly ſhadows: But ſince it pleaſed Almightie God to bring your Majeſtie again to glance upon us; our ſpring beginneth, diſſipate is our darkneſſe, our feares all evaniſhed, and we are as men tranſported to ſome other world; and truly in one of the fortunate Iſlands; the Golden age is renewed unto us, Justice and Peace begin to kiſſe one another, every man returning to his wonted trade and lawfull calling: Of what during your abſence hath amongſt us fallen forth, no imputation can be laid to your Ma: ſuch who preſumed to take the reins of government and rule in your place, not being ſufficie<g ref="char:cmbAbbrStroke">̄</g>t for ſo great a charge; like ſo many <hi>Phaetons</hi> have wrought their own down fall, and our trouble, their weakneſſe interrupted and cut off, that mutual intelligence which ſhould have been between You, our Head and Prince, and us the bodie your Subjects; meere accidents occaſioned many ſurmiſes and great miſtakings, all being in<g ref="char:EOLhyphen"/>creaſed
+<pb facs="tcp:153954:3"/> and blown up by a panicall terrour and fear of ſervitude, which combyning with religious zeal, went near to produce an abor<g ref="char:EOLhyphen"/>tive chaos.</p>
+            <p>Doubts now are reſolved, all damps and miſtes cleared, and wee hope that ſaying ſhall prove true, <hi>Amantium irae amoris redin<g ref="char:EOLhyphen"/>te gratio;</hi> this aſſurance is wrought in us by that confidence we have of your Majeſties cle<g ref="char:EOLhyphen"/>mencie, which vertue is more proper to you then any Prince living: You are the common Father of your people, we are your children; ingratitude of children towards their Father, is accurſed, and crueltie of Fathers towards their children, unnaturall, though every ver<g ref="char:EOLhyphen"/>tue be requiſit in a Prince, yet Juſtice and clemencie are moſt in him to bee deſired, by which he is made good and wiſe, and approaches neareſt to the excellencies of his Maker, who is moſt juſt and moſt mercifull.</p>
+            <p>We are here in a ſublunarie place, ſubject to alterations, producing occaſions, which wrought upon by others produce many miſ-in<g ref="char:EOLhyphen"/>telligences,
+<pb facs="tcp:153954:4"/> and at length bringeth forth unex<g ref="char:EOLhyphen"/>pected &amp; marvellous abortives in State: God, Prudencie and Occaſion are the three princi<g ref="char:EOLhyphen"/>pall cauſes in the moderation of all eſtates, and theſe three concurring together, are called <hi>fa<g ref="char:EOLhyphen"/>tum:</hi> And certainly God to ſhew the uncon<g ref="char:EOLhyphen"/>ſtancie of the world, hath ſuffered this birth of miſ-intelligence, which hath ſo long eſtranged and parted us from your Majeſtie; but now as ever we confeſſe you are our Saveraigne Lord, and we ſwear and declare we will live and die loyall Subjects to your Majeſtie, acknowledg<g ref="char:EOLhyphen"/>ing you are ordained and placed over us by Al<g ref="char:EOLhyphen"/>mighty God, the King of kings: who leaſt he ſhould dazell our weak ſight by his exceeding brightneſſe, did not here below eſtabliſh the throne of his excellency, but granted us to look upon it, by the repreſentation of one Sunne in the heaven, and one Prince in the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Accept <hi>Sir</hi> of our obedience, receive us into your wontid favour, and uſing your clemencie paſſe by what is by paſt, your juſtice alſo in this
+<pb facs="tcp:153954:4"/> ſhall appear if you gather together and unite the diſperſed members of this Kingdome, if you calme all apparent troubles, eſtabliſh a laſting peace and tranquilitie amongſt your Subjects, who now put up their cryes to ſave and relieve them. It being more expedient thus to do, then by any rigour to exaſperat ſick mindes, <hi>&amp; melius ſavare vitioſas partes quam exſe<g ref="char:EOLhyphen"/>care,</hi> remembring that to Princes, <hi>qui be<g ref="char:EOLhyphen"/>nignitate &amp; clementia nuperium tenuere candida &amp; laeta omnia fuiſſe.</hi>
+            </p>
+            <p>As the clemency of King <hi>Henrie</hi> the 4. your Father in law is perpetually praiſed, ſo the ri<g ref="char:EOLhyphen"/>gorous and great ſeveritie of <hi>Charles</hi> Duke of <hi>Burgundie</hi> againſt Liege, and the Emperor <hi>Charles</hi> the 5 againſt his people of <hi>Gant,</hi> is to all poſteritie branded and made blacke, <hi>qui vult amari languidâ regnet manu. Pericles</hi> before his death is ſaid to have accompted him<g ref="char:EOLhyphen"/>ſelf happie, that during his government none in <hi>Athens</hi> by wrong from him did wear a mour<g ref="char:EOLhyphen"/>ning weed: It is more expedient for the good of Your Crown to preſerve your whole people,
+<pb facs="tcp:153954:5" rendition="simple:additions"/> then to ſacrifice to your wrath any part of them, and ſo to looſe that Gordian knot of difficulties, not with the ſword of furie as <hi>Alexander</hi> did, but with the knife of prudencie as <hi>Solomon. Sir</hi> wee have long conceived hopes of your ſweetneſſe and debonaritie, but now is the time in which we ſhall finde the effects, Clemencie is the true and only praiſe of a Prince, his ne<g ref="char:EOLhyphen"/>ver fading lawrels which recommendeth him to all Nations, and after times.</p>
+            <p>Accept then of us your humble and faith<g ref="char:EOLhyphen"/>full Subjects; and thus <hi>(Sir)</hi> you ſhall be ſtill obeyed, we aſſured, all your people ſhall redouble their prayers and vows for your proſperous Reigne, and acknowledge you not onely their King, but their deliverer, preſerver, and fa<g ref="char:EOLhyphen"/>ther, Your deſignes ſhall have a happie ſucceſſe upon earth, and your ſelf an immortall crowne of Glorie, when the curtaines of this mortall ſtage ſhall be drawn in Heaven.</p>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
